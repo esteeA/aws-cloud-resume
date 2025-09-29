@@ -13,8 +13,11 @@ The [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/extensions/di
    
 ## Prerequisites
 AWS Account: You need an active AWS account to deploy the infrastructure.
+
 Terraform: Ensure you have Terraform installed on your machine. You can download it [here](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli).
+
 AWS CLI: Install and configure the AWS CLI with your credentials.
+
 Git: Install Git for version control.
 
 ## Resources Created by Terraform
