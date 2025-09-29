@@ -30,3 +30,5 @@ API Gateway: Exposes the Lambda function to update the view count.
 Lambda: A Python function that increments and retrieves the visitor count.
 
 DynamoDB: Stores the number of visitors to the website.
+
+## Link to live resume - https://dr2s6blh1afxb.cloudfront.net/
